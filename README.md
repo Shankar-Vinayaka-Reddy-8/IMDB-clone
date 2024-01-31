@@ -1,5 +1,5 @@
 # Reactjs-Resturant-website
 Complete Reactjs IMDB ClONE
 <p align="center">
-  View <a href="https://indian-taste.netlify.app/">Live demo</a>.
+  View <a href="https://imdb-clone-im.netlify.app/">Live demo</a>.
  </p>
